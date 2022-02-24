@@ -4,6 +4,6 @@ tmp/
 Thumbs.db
 .DS_Store
 # Ignore file
-*.html_old
+*.*_old
 # Ignore file
-*.png_backup
+/*.*_backup
