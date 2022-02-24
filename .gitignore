@@ -6,4 +6,4 @@ Thumbs.db
 # Ignore file
 *.*_old
 # Ignore file
-/*.*_backup
+*.*_backup
