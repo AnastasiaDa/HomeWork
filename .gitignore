@@ -1,5 +1,8 @@
-**/tmp
-_old
-_backup
+# Ignore folder tmp
+tmp/
+# Ignore files ".DS_Store", "Thumbs.db"
 Thumbs.db
 .DS_Store
+# Ignore files
+*_old
+*_backup
